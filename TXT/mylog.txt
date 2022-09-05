@@ -5,3 +5,6 @@ ZCZC W00 5 L03 Sign up git hub
 ZCZC W00 10 L04 Create git hub page
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 20 L10 Doing assignment #00
+ZCZC W00 5 L41 updating mylog.txt
+ZCZC W00 100 L02 ZOOM meetings (online lecture)
+ZCZC W00 30 L05 doing quiz and a brief review of past lecture
