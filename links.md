@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By valenciusap17</span>
 <br><br>
 [HOME]( https://github.com/valenciusap17/ /) ---
 [LINKS]( https://github.com/valenciusap17/LINKS/) ---
@@ -20,6 +20,6 @@ Study various concepts of operating system
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- valenciusap17 ---
 <hr>
 <br>
