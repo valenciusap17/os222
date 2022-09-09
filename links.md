@@ -3,12 +3,12 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME]({{ https://github.com/valenciusap17/ }}/) ---
-[LINKS]({{ https://github.com/valenciusap17/ }}/LINKS/) ---
-[TIPS]({{ https://github.com/valenciusap17/ }}/TIPS/) ---
-[LOG]({{ https://github.com/valenciusap17/ }}{{ site.myloglink }}) ---
+[HOME]( https://github.com/valenciusap17/ /) ---
+[LINKS]( https://github.com/valenciusap17/LINKS/) ---
+[TIPS]( https://github.com/valenciusap17/TIPS/) ---
+[LOG]( https://github.com/valenciusap17/https://os.vlsm.org/Log/) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB]( site.githublink )
 <br>
 <hr>
 
