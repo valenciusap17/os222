@@ -12,7 +12,7 @@
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-This is the way!
+Haiii!!! Welcome to my github page!!!!!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
