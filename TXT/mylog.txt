@@ -15,6 +15,9 @@ ZCZC W01 5 L01 Keeping up with the news on discord and scele
 ZCZC W01 20 L05 brief review after lecture session
 ZCZC W01 80 L02 ZOOM meetings (online lecture)
 ZCZC W01 140 L11 Doing assignment #01 
-ZCZC W01 30 L61 installing all components needed for assignment #01
+ZCZC W01 30 L61 Installing all components needed for assignment #01
 ZCZC W01 40 L06 Browsing and reading documentation related to assignment #01
 ZCZC W01 10 L41 Updating mylog.txt
+ZCZC W01 40 L05 Studying before quiz and doing quiz
+ZCZC W01 180 L11 Continue doing assignment #01 
+ZCZC W01 5 L41 Updating mylog.txt
