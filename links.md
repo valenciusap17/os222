@@ -14,9 +14,15 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.os-book.com/OS10/)<br>
+1. [Operating System Book Reference](https://www.os-book.com/OS10/)<br>
 Learn more about operating system
 Study various concepts of operating system
+
+2. [Operating System Lecture Main Site](https://os.vlsm.org/)<br>
+Place where i see my report, assignment, etc
+
+3. [Scele Operating System part](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
+Where i find my online operating system class and do my quiz
 
 <br>
 <hr>
