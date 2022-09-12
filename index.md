@@ -6,13 +6,13 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL]({{ site.tarballink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-Haiii!!! Welcome to my github page!!!!!
+Welcome to my github page!!!!!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
