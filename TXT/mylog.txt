@@ -21,3 +21,11 @@ ZCZC W01 10 L41 Updating mylog.txt
 ZCZC W01 40 L05 Studying before quiz and doing quiz
 ZCZC W01 180 L11 Continue doing assignment #01 
 ZCZC W01 5 L41 Updating mylog.txt
+ZCZC W02 5 L01 Keeping up with the news on discord and scele
+ZCZC W02 100 L02 ZOOM meetings (online lecture)
+ZCZC W02 100 L02 ZOOM meetings (online lecture)
+ZCZC W02 120 L11 Doing week 02 assignment #1 dan #2
+ZCZC W02 40 L32 Watch a couple of videos from the links that given on the assignment
+ZCZC W02 160 L11 Finishing the rest of week 02 assignment
+ZCZC W02 5 L44 Editing myscript.sh
+ZCZC W02 5 L41 Updating mylog.txt
