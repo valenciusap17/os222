@@ -35,7 +35,7 @@ For me personally this video is the best one i have found so far about regex. I 
 1. [Youtube](https://www.youtube.com/)<br>
 Place to explore lots of new things. Recently I watch a brief introduction about privacy and about cyber security and all of those i get it from youtube.
 
-2. [Delete a a gpg key](https://linuxhint.com/delete-gpg-keys-linux/)<br>
+2. [Delete a gpg key](https://linuxhint.com/delete-gpg-keys-linux/)<br>
 How to delete a gpg key when we only want one with a specific username.
 
 <br>
