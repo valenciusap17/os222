@@ -38,6 +38,14 @@ Place to explore lots of new things. Recently I watch a brief introduction about
 2. [Delete a gpg key](https://linuxhint.com/delete-gpg-keys-linux/)<br>
 How to delete a gpg key when we only want one with a specific username.
 
+## Week 3 
+1. [Searching what will happend if i change my hard disk name with delete and recreate it](https://www.quora.com/Will-wiping-the-hard-drive-of-a-virtual-machine-affect-your-actual-computers-hard-drive)<br>
+Help me to search the output of deleting a hard disk and recreate it, will it affect my changes that i did or not.
+
+2. [try to figure out how to encrypt a file with public key](https://sites.radford.edu/~itec345/2013spring-ibarland/Homeworks/hw06/hw06.html)<br>
+Help me to know what I needed to do while doing the pop quiz.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

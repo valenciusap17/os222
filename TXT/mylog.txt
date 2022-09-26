@@ -30,3 +30,10 @@ ZCZC W02 160 L11 Finishing the rest of week 02 assignment
 ZCZC W02 5 L44 Editing myscript.sh
 ZCZC W02 5 L41 Updating mylog.txt
 ZCZC W02 60 L11 Revising the contents of TXT folder for week 02 assignment
+ZCZC W03 5 L01 Keeping up with the news on discord and scele
+ZCZC W03 100 L02 ZOOM meetings (online lecture)
+ZCZC W03 60 L06 reading references powerpoint from OS main SIGNATURE
+ZCZC W03 100 L02 ZOOM meetings (online lecture)
+ZCZC W03 60 L13 DOing assignment #03
+ZCZC W03 5 L41 updating mylog.txt 
+ZCZC W03 5 L01 doing pop quiz on scele 
