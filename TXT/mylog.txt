@@ -37,3 +37,19 @@ ZCZC W03 100 L02 ZOOM meetings (online lecture)
 ZCZC W03 60 L13 DOing assignment #03
 ZCZC W03 5 L41 updating mylog.txt 
 ZCZC W03 5 L01 doing pop quiz on scele 
+ZCZC W04 5 L01 keeping up with the new on discord scele
+ZCZC W04 100 L02 ZOOM meetings (online lecture)
+ZCZC W04 45 L06 reading books and references for pop quiz on scele
+ZCZC W04 100 L02 ZOOM meetings (online lecture)
+ZCZC W04 45 L05 Trying to figure out what to do for pop quiz
+ZCZC W04 20 L05 creating code in C language for pop quiz
+ZCZC W04 30 L05 creating script.sh to encrypt code for pop quiz
+ZCZC W04 45 L05 studying for quiz on thursday
+ZCZC W04 45 L05 studying for quiz on friday
+ZCZC W04 3 L05 doing quiz on friday
+ZCZC W04 30 L32 randomly watch youtube videos that relate with OS topics
+ZCZC W04 10 L41 updating mylog.txt
+ZCZC W04 10 L43 updating myrank.txt
+ZCZC W04 60 L80 watching comedy show on youtube
+ZCZC W04 60 L73 playing online video games
+ 
