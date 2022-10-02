@@ -46,6 +46,10 @@ Help me to search the output of deleting a hard disk and recreate it, will it af
 Help me to know what I needed to do while doing the pop quiz.
 
 
+## Week 4
+1. [Easy access C programming language compiler](https://www.programiz.com/c-programming/online-compiler/)<br>
+Wasn't really sure how to compile my code for C in my computer> then found this usefull C compiller online from google.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
