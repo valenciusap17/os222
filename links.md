@@ -45,10 +45,13 @@ Help me to search the output of deleting a hard disk and recreate it, will it af
 2. [try to figure out how to encrypt a file with public key](https://sites.radford.edu/~itec345/2013spring-ibarland/Homeworks/hw06/hw06.html)<br>
 Help me to know what I needed to do while doing the pop quiz.
 
-
 ## Week 4
 1. [Easy access C programming language compiler](https://www.programiz.com/c-programming/online-compiler/)<br>
 Wasn't really sure how to compile my code for C in my computer> then found this usefull C compiller online from google.
+
+## Week 5
+1. [How run C files in linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
+Sites that helps me to compile and run C in linux
 
 <br>
 <hr>
