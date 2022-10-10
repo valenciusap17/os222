@@ -52,4 +52,3 @@ ZCZC W04 10 L41 updating mylog.txt
 ZCZC W04 10 L43 updating myrank.txt
 ZCZC W04 60 L80 watching comedy show on youtube
 ZCZC W04 60 L73 playing online video games
- 
