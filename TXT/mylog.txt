@@ -64,3 +64,14 @@ ZCZC W05 100 L15 doing Assignment #05
 ZCZC W05 10 L41 updating mylog.txt
 ZCZC W05 10 L43 updating myrank.txt
 ZCZC W05 4 L40 updating myupdate.txt
+ZCZC W05 4 L40 updating myupdate.txt
+ZCZC W06 5 L01 keeping up with the news on discord scele
+ZCZC W06 100 L02 ZOOM meetings (online lecture)
+ZCZC W06 100 L02 ZOOM meetings (online lecture)
+ZCZC W06 40 L16 Doing assignment #06
+ZCZC W06 30 L05 preparing to do quiz 02 with studying a bit
+ZCZC W06 5 L05 doing quiz 02
+ZCZC W06 10 L41 updating mylog.txt
+ZCZC W06 10 L43 updating myrank.txt
+ZCZC W06 4 L40 updating myupdate.txt
+ZCZC W06 60 L05 doing pop quiz
