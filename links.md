@@ -53,6 +53,9 @@ Wasn't really sure how to compile my code for C in my computer> then found this 
 1. [How run C files in linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
 Sites that helps me to compile and run C in linux
 
+## Week 6
+1. [Resolving merge conflicts](https://docs.github.com/en/get-started/using-git/resolving-merge-conflicts-after-a-git-rebase)<br>
+I forgot to do git pull first to update my files from my github which i pushed from low memory (last week assignment). Then i found the command from this site to do resolve it.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
