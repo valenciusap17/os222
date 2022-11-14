@@ -56,6 +56,11 @@ Sites that helps me to compile and run C in linux
 ## Week 6
 1. [Resolving merge conflicts](https://docs.github.com/en/get-started/using-git/resolving-merge-conflicts-after-a-git-rebase)<br>
 I forgot to do git pull first to update my files from my github which i pushed from low memory (last week assignment). Then i found the command from this site to do resolve it.
+
+## Week 7
+1. [Using copy command](https://www.tutorialspoint.com/unix_commands/cp.htm#:~:text=cp%20command%20copies%20files%20(or,SOURCE%20file%20to%20DEST%20file))<br>
+Not really familiar with the copy command so i searched it and found this website that provides the example of using copy command.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
