@@ -75,3 +75,17 @@ ZCZC W06 10 L41 updating mylog.txt
 ZCZC W06 10 L43 updating myrank.txt
 ZCZC W06 4 L40 updating myupdate.txt
 ZCZC W06 60 L05 doing pop quiz
+ZCZC W07 5 L01 keeping up with the news on discord scele
+ZCZC W07 100 L02 ZOOM meetings (online lecture)
+ZCZC W07 5 L01 scrolling through announcement before class
+ZCZC W07 100 L02 ZOOM meetings (online lecture)
+ZCZC W07 30 L05 preparing for quiz 02
+ZCZC W07 5 L05 doing quiz 02
+ZCZC W07 15 L05 preparing for quiz 01
+ZCZC W07 3 L05 doing quiz 01
+ZCZC W07 60 L17 doing assignmment #07
+ZCZC W07 10 L43 updating myrank.txt
+ZCZC W07 4 L40 updating myupdate.txt
+ZCZC W07 15 L41 updating mylog.txt
+ZCZC W07 10 L04 updating links.md on github
+ZCZC W07 10 L03 rechecking all files to push 
