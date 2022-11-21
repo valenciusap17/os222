@@ -61,6 +61,9 @@ I forgot to do git pull first to update my files from my github which i pushed f
 1. [Using copy command](https://www.tutorialspoint.com/unix_commands/cp.htm#:~:text=cp%20command%20copies%20files%20(or,SOURCE%20file%20to%20DEST%20file))<br>
 Not really familiar with the copy command so i searched it and found this website that provides the example of using copy command.
 
+## Week 8
+1. [Website that helps me to build linux from scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+It has every detail of everything that we need to build our linux and we just need to follow the instruction.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
