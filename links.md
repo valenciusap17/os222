@@ -64,6 +64,11 @@ Not really familiar with the copy command so i searched it and found this websit
 ## Week 8
 1. [Website that helps me to build linux from scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
 It has every detail of everything that we need to build our linux and we just need to follow the instruction.
+
+## Week 9
+1. [Youtube channel to start your linux from scratch](https://www.youtube.com/@Kernotex)<br>
+Helps me to understand what i need to do to and why do i need to do it to build my linux from scratch.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
