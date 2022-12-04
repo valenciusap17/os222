@@ -69,6 +69,11 @@ It has every detail of everything that we need to build our linux and we just ne
 1. [Youtube channel to start your linux from scratch](https://www.youtube.com/@Kernotex)<br>
 Helps me to understand what i need to do to and why do i need to do it to build my linux from scratch.
 
+## Week 10
+1. [How Process Synchronization works](https://www.studytonight.com/operating-system/process-synchronization)
+Nice article that fills with information about synchronization process in an operating system.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
