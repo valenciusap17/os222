@@ -96,7 +96,7 @@ ZCZC W08 30 L05 preparing for quiz 02
 ZCZC W08 5 L05 doing quiz 02
 ZCZC W08 25 L05 preparing for quiz 01
 ZCZC W08 5 L05 doing quiz 01
-ZCZC W08 300 L17 doing assignmment #07
+ZCZC W08 300 L17 doing assignmment #08
 ZCZC W08 30 L05 doing popquiz
 ZCZC W08 10 L43 updating myrank.txt
 ZCZC W08 4 L40 updating myupdate.txt
@@ -111,10 +111,24 @@ ZCZC W09 30 L05 preparing for quiz 02
 ZCZC W09 5 L05 doing quiz 02
 ZCZC W09 25 L05 preparing for quiz 01
 ZCZC W09 5 L05 doing quiz 01
-ZCZC W09 240 L17 doing assignmment #07
+ZCZC W09 240 L17 doing assignmment #09
 ZCZC W09 15 L05 doing popquiz
 ZCZC W09 10 L43 updating myrank.txt
 ZCZC W09 4 L40 updating myupdate.txt
 ZCZC W09 15 L41 updating mylog.txt
 ZCZC W09 10 L04 updating links.md on github
 ZCZC W09 10 L03 review files before push
+ZCZC W10 5 L01 keeping up with the news on discord scele
+ZCZC W10 100 L02 ZOOM meetings (online lecture)
+ZCZC W10 15 finding any important news that i need to check on scele
+ZCZC W10 30 L05 preparing for quiz 02
+ZCZC W10 5 L05 doing quiz 02
+ZCZC W10 25 L05 preparing for quiz 01
+ZCZC W10 5 L05 doing quiz 01
+ZCZC W10 720 L17 doing assignmment #10
+ZCZC W10 15 L05 doing popquiz
+ZCZC W10 10 L43 updating myrank.txt
+ZCZC W10 4 L40 updating myupdate.txt
+ZCZC W10 15 L41 updating mylog.txt
+ZCZC W10 10 L04 updating links.md on github
+ZCZC W10 10 L03 review files before push
